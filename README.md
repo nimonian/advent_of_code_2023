@@ -5,7 +5,7 @@ My solutions to [Advent of Code 2023](https://adventofcode.com/2023). JavaScript
 ## Day 1: Trebuchet?!
 
 -   [x] Part 1
--   [ ] Part 2
+-   [x] Part 2
 
 ## Day 2: Cube Conundrum
 
